@@ -1,0 +1,43 @@
+\---------------------------------------------------------------------------------------------------\
+ \           																											 \
+  \						              		TAI Nombres et Structures										  \
+   \                                                  Equatio-Calculo                                              \
+    \ 																													    \
+    \---------------------------------------------------------------------------------------------------\
+
+	----- Attention ----
+	
+	- Ne recompiler pas le projet global !!
+	- Insérez les modifications de vos méthodes dans le projet global, autrement elles seront omises.
+	- Si vous souhaitez effectuer des tests, faites les dans le dossier provisoir prévu à cet effet.
+	- Lors des publications insérer le raison, et pas juste un commentaire bidon.
+	- Ne modifier le changelog global que lorsque vous avez changé des choses dans le code sources global.
+	- Modifier le changelog de chaque partie à chaque modifications dans votre partie.
+	
+	----- Répartition -----
+	
+	* Second degré : Gregoire
+	* Troisième degré : Thibault
+	* Quatrième degré : Thomas
+	* Cinquième degré : Charles
+	
+	----- Task list -----
+	
+	O Menu
+	O Second degré
+	O Troisième degré
+	O Quatrième degré
+	O Cinquième degré
+	
+	o Parser
+	
+	----- Planning -----
+	
+	+ 15 novembre 2011    : réunion prévisionnel
+	+ 19 novembre 2011    : ouverture du dépot
+	+ 24 novembre 2011    : vérification équation perso
+	+ 1 décembre 2011     : Visualisation des méthodes
+	+ 4 décembre 2011      : Dernière version du programme
+	+ 8 décembre 2011      : composition et assemblage du rapport
+	+ 13 déceombre 2011  : rendu rapport, programme, code, résolution manuscrite
+	+ semaines 2, 3           : Soutenance
