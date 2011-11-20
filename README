@@ -1,9 +1,9 @@
-\---------------------------------------------------------------------------------------------------\
- \           																											 \
-  \						              		TAI Nombres et Structures										  \
-   \                                                  Equatio-Calculo                                              \
-    \ 																													    \
-    \---------------------------------------------------------------------------------------------------\
+|------------------------------------------------------------------|
+|																				|
+|            		TAI Nombres et Structures						|
+|                          Equatio-Calculo                              |
+|																				|
+|------------------------------------------------------------------|
 
 	----- Attention ----
 	
@@ -13,6 +13,7 @@
 	- Lors des publications insérer le raison, et pas juste un commentaire bidon.
 	- Ne modifier le changelog global que lorsque vous avez changé des choses dans le code sources global.
 	- Modifier le changelog de chaque partie à chaque modifications dans votre partie.
+	- Pas d'accent dans les commentaires, changelog ou readme.
 	
 	----- Répartition -----
 	
@@ -39,5 +40,5 @@
 	+ 1 décembre 2011     : Visualisation des méthodes
 	+ 4 décembre 2011      : Dernière version du programme
 	+ 8 décembre 2011      : composition et assemblage du rapport
-	+ 13 déceombre 2011  : rendu rapport, programme, code, résolution manuscrite
+	+ 13 décembre 2011  : rendu rapport, programme, code, résolution manuscrite
 	+ semaines 2, 3           : Soutenance
